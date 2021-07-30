@@ -2,7 +2,7 @@
 
  - [**Jose Efrain Ortiz Solorzano**](https://www.lsu.edu/agriculture/plant/about/grad-students/jsolorzano.php)**, graduate student at Louisiana State University**
  
- > This is repository for created to store a database containing  secondary metabolites produced by fungi in the family Xylariaceae.  
+ > This is a repository created to store a database containing `secondary metabolites` produced by fungi in the family Xylariaceae.  
 
 # Table of contents
 ---
